@@ -1,5 +1,4 @@
-import React from 'react';
-import {useContext} from "react";
+import React, {useContext} from 'react';
 
 // Components
 import Product from './Product';
